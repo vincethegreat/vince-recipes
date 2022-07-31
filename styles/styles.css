@@ -1,0 +1,28 @@
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.heading {
+    text-align: center;
+}
+.recipe-block1 {
+    display: inline-block;
+    height: 200px;
+    width: 180px;
+}
+.author {
+    color: gray;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+.author-name {
+    margin-top: 0px;
+
+}
+.recipe-name {
+    width: 250px;
+    font-weight: bold;
+}
+.recipe-name:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
