@@ -8,6 +8,8 @@ p {
     display: inline-block;
     height: 200px;
     width: 180px;
+    vertical-align: top;
+    margin-right: 100px;
 }
 .author {
     color: gray;
@@ -41,4 +43,12 @@ p {
     display: inline-block;
     margin-left: 380px;
     margin-top: -680px;
+}
+.lasagna {
+    width: 300px;
+    height: 300px;
+}
+.zuccini {
+    height: 300px;
+    width: 300px;
 }
