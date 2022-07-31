@@ -23,6 +23,22 @@ p {
     font-weight: bold;
 }
 .recipe-name:hover {
-    text-decoration: underline;
     cursor: pointer;
+    color: black;
+}
+.pork {
+    height: 350px;
+    width: 350px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    display: block;
+}
+.prep-time {
+    border-color: gray;
+    border-width: 1px;
+    border-style: groove;
+    display: inline-block;
+    margin-left: 380px;
+    margin-top: -680px;
 }
